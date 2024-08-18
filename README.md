@@ -1,0 +1,2 @@
+# RansomwareIOCs
+Ransomware IOCs
