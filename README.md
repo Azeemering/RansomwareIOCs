@@ -1,2 +1,2 @@
 # RansomwareIOCs
-Ransomware IOCs
+This repo includes ransomware extensions and notes files.
